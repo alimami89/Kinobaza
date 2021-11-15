@@ -6,7 +6,7 @@
 body {
     font-size: 1.2em;
     background-color: #fff;
-    color: #555;
+    color: rgb(250, 23, 231);
 }
 
 p {
@@ -15,7 +15,7 @@ p {
 }
 
 input[type="text"], input[type="password"], input[type="search"] {
-    color: #5d5d5d;
+    color: rgba(73, 156, 233, 0.533)46;
     width: 60%;
     padding: 8px;
 }
@@ -40,7 +40,7 @@ h2 {
 a, a:hover {
     outline: none;
     text-decoration: underline;
-    color: #136cb2;
+    color: #8300cf;
 }
 
 ul {
@@ -54,7 +54,7 @@ ul li {
 }
 
 header {
-    background-color: darkslateblue;
+    background-color: rgb(51, 0, 75);
     height: 210px;
     font-size: 0.8em;
     margin-left: 0px;
@@ -116,7 +116,7 @@ ul.menu li a {
 }
 
 ul.menu li.selected a {
-    color: #136cb2;
+    color: #c67cf8;
 }
 
 ul.menu li a:hover {
@@ -215,7 +215,7 @@ hr {
 
 .info_film_page .label {
     font-size: 1.2em;
-    color: #136cb2;
+    color: #f36cff;
     margin-right: 3%;
 }
 
@@ -236,7 +236,7 @@ hr {
 }
 
 .reviews .review_name {
-    background-color: #7268AD;
+    background-color: #816df3;
     color: white;
     padding: 1%;
     border-bottom-left-radius: 5px;
@@ -342,7 +342,7 @@ footer {
     padding: 28px 0 5px 0;
     text-align: center;
     background-color: darkslateblue;
-    color: #a8aa94;
+    color: hsl(162, 89%, 64%);
     margin-left: 0px;
     margin-right: 0px;
     min-width: 900px;
